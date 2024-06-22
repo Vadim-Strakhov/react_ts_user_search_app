@@ -10,4 +10,5 @@ export default defineConfig({
       src: "/src",
     },
   },
+  base: "react_ts_user_search_app",
 });
